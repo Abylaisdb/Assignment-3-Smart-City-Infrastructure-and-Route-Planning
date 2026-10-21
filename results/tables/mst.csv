@@ -1,0 +1,7 @@
+"Size","V","E","Algorithm","Avg time (ms)","MST weight","Connected","Comparisons","Edge examinations","Structure ops (DSU find+union / PQ push+pop)"
+"Small","10","30","Kruskal","0.0239","177","true","107","15","45"
+"Small","10","30","Prim","0.0365","177","true","196","60","60"
+"Medium","100","500","Kruskal","0.1135","1182","true","3845","367","1101"
+"Medium","100","500","Prim","0.3605","1182","true","7609","1000","1000"
+"Large","1000","5000","Kruskal","1.6666","11984","true","50323","3378","10134"
+"Large","1000","5000","Prim","1.1386","11984","true","111453","10000","10000"

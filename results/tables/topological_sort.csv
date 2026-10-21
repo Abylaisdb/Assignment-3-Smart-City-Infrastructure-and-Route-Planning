@@ -1,0 +1,7 @@
+"Size","V","E","Graph type","Avg time (ms)","Result","Operations"
+"Small","10","30","DAG","0.0156","valid order of 10 vertices","80"
+"Small","10","30","cyclic","0.0031","cycle detected","40"
+"Medium","100","500","DAG","0.1142","valid order of 100 vertices","1200"
+"Medium","100","500","cyclic","0.0376","cycle detected","600"
+"Large","1000","5000","DAG","0.1701","valid order of 1000 vertices","12000"
+"Large","1000","5000","cyclic","0.0383","cycle detected","6054"
